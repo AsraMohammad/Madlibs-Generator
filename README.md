@@ -69,4 +69,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-Ensure to replace `<repository_url>` with the URL of your repository. This README provides clear instructions on how to use your Madlibs Generator, an example, and guidance for contributing. You can customize it further according to your project's needs.
+ This README provides clear instructions on how to use your Madlibs Generator, an example, and guidance for contributing. You can customize it further according to your project's needs.
